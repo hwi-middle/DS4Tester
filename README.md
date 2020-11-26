@@ -4,6 +4,9 @@
 ![img1](https://user-images.githubusercontent.com/18626148/100343605-ee4d5980-3022-11eb-956b-10bdf8838f34.png)
 듀얼쇼크4의 쏠림 현상이나 입력무시(씹힘) 현상을 테스트 해 볼 수 있는 프로그램입니다.
 
+## 다운로드
+[여기](https://github.com/hwi-middle/DS4Tester/releases)에서 릴리즈를 확인할 수 있습니다.
+
 ## 현재 지원 기능
 - 십자키 테스트
 - △○×□ 키 테스트
